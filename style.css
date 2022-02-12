@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(167, 231, 240);
+}
+
+#first{background-color: red;}
+#second{background-color: blueviolet;}
+.bg-blue{ background-color: aqua;}
+.red{background-color: azure; color: blanchedalmond;}
+p{color: brown;}
+
+.blue{color: black;
+background-color: red;
+border: white;}
